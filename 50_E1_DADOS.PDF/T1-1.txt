@@ -1,0 +1,12 @@
+Oportunidade
+O produto BioBoxPlus apresenta valor acrescido relativamente ao seu sucessor BioBox, pelo que a BGB procura aproveitar as novas funcionalidades.
+Resultante disso, a BGB tenciona integrar este novo produto no mercado de transporte de passegeiros.
+
+A aplicação BEUDIW
+A aplicação BEUDIW é a componente deste novo produto que o torna tão especial.
+A BEUDIW é altamente customizável, sendo desenvolvida para cada cliente consoante as suas necessidades e desejos.
+Este processo de customização da app ocorre numa fase inicial durante as negociações do contrato e, posteriormente, existe um diálogo permanente entre o cliente e a BGB de forma a garantir a implementação de novas funcionalidades sempre que possível.
+
+Integração da EUDIW
+Com o intuito de alavancar os processos de transformação digital dos seus clientes, o BioBoxPlus permite agora a leitura da EUDIW para validação de acessos.
+Este novo tipo de validação possibilita, por um lado, uma autenticação centralizada e automática de cada utilizador e por outro lado, a criação de credenciais personalizadas para os trabalhadores do cliente que monitorizam e dão acesso a certas áreas restritas definidas pelo mesmo.
